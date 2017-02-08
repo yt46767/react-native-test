@@ -89,4 +89,3 @@ profile
 ------加载模块
         splashscreen/SplashScreen.react.js
 
-# sampleApp
